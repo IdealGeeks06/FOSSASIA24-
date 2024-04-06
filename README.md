@@ -12,12 +12,7 @@
 
 <br>
 
-<!-- Hacktoberfest 2022 -->
 
-
-## ![Logo](https://user-images.githubusercontent.com/72182438/190960356-25d52729-7111-4584-ab76-2009fdcb212d.svg)       Hacktoberfest 2022
-
-#### For Hacktoberfest contribution please read the [CONTRIBUTING.md](CONTRIBUTING.md) and join our [Discord](https://discord.gg/Z9hbT8RGNG) server.
 
 
 <!-- ABOUT THE PROJECT -->
