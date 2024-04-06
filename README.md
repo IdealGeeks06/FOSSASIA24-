@@ -177,19 +177,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## 🧑🏽‍💻 Maintainers
-
-<div align="center" display="flex">
-<a href="https://github.com/anomic30">
-<img src="https://user-images.githubusercontent.com/72182438/190963370-f9ce9b2c-7300-45a0-aa31-18911ed93802.png" width="45%"/>
-</a>
-<a href="https://github.com/Sneakad">
-<img src="https://user-images.githubusercontent.com/72182438/190963366-e349a51c-64c2-4fb8-8293-d0d213f55db5.png" width="45%" />
-</a>
-
-</div>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
